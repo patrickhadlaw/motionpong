@@ -1,11 +1,12 @@
 # motionpong
 
 An motion activated pong game running on the Onion Omega micro-controller built for the final project of my introduction programming course.
+
+![Concept](/docs/concept.png?raw=true "Concept")
+
 Features:
 * Motion control for pong game, simply move hands in front of ultrasonic sensors to control paddles
 * Draws game on Onion Omega 2 display as seen in screenshots below
-
-![Concept](/docs/concept.png?raw=true "Concept")
 
 ## Liscensing
 
@@ -26,7 +27,7 @@ Features:
 
 ## Report
 
-### [Click here](/docs/Project Report.pdf) for a report on how motion-pong works and was created
+[Click here](https://github.com/patrickhadlaw/motionpong/blob/master/docs/Project_Report.pdf) for a report on how motion-pong works and was created
 
 ## Screenshots
 
